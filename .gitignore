@@ -1,0 +1,4 @@
+# ignore golang build files
+*
+!*.*
+!*/
